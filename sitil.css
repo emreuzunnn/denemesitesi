@@ -1,0 +1,106 @@
+ul{
+list-style: none;
+	margin: 0;
+	padding: 0;
+}
+ul#main li ul{
+	display: none;
+	position: absolute;
+}
+ul#main li{
+	float: left;
+	width: 150px;
+	position: relative;
+}
+#menu{
+	margin-top: 50px;
+	margin-left: 700px;
+}
+ul li a{
+	display: block;
+	text-decoration: none;
+	width: 150px;
+	line-height: 40px;
+	text-align: center;
+	color: #07E5ED;
+	background-color: #08361D;
+	
+}
+#kart1:hover{
+    background-color: #07E5ED;
+}
+#kart2:hover{
+    background-color: #07E5ED;
+}
+#kart3:hover{
+    background-color: #07E5ED;
+}
+#bannerresim{
+	    height: 250px;
+    margin-top: -217px;
+    margin-left: 532px;
+    opacity: 65%;
+    float: left;
+}
+ul li a:hover{background-color: #fff;
+	display: flex;
+}
+ul#main li:hover ul {
+	display: block;
+	
+	
+	
+}
+#oyunpc{
+	        padding-left: 859px;
+    display: inline-block;
+    margin-top: -84px;
+    font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif';
+    font-size: 40px;
+    position: absolute;
+}
+#kart1{
+	 margin-left: 76px;
+    margin-top: 97px;
+    width: 303px;
+    height: 391px;
+    background: gray;
+    border-radius: 20px;
+    border: 10px;
+    position: absolute;
+    border-color: greenyellow;
+}
+#kart2{
+	 margin-left: 624px;
+    margin-top: 97px;
+    width: 303px;
+    height: 391px;
+    background: gray;
+    border-radius: 20px;
+    border: 10px;
+    position: absolute;
+    border-color: greenyellow;
+}
+#kart3{
+	margin-left: 1103px;
+    margin-top: 97px;
+    width: 303px;
+    height: 391px;
+    background: gray;
+    border-radius: 20px;
+    border: 10px;
+    position: absolute;
+    border-color: greenyellow;
+}
+.buton{margin-left:100px; margin-top:150px; width: 100px;height: 30px;background-color: aqua ;border-radius: 10px; }
+.buton1{margin-left:100px; margin-top:70px; width: 100px;height: 30px;background-color: aqua ;border-radius: 10px; }
+
+
+
+
+
+
+
+
+
+
